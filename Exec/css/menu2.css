@@ -1,0 +1,43 @@
+body{
+    width: 972px;
+    height: 1px;
+    margin-left: -8px;
+    margin-top: -3px;
+}
+
+#Dois{
+    background-color:#660000 ;
+    color: white;
+    font: Arial;
+    font-size: 12px
+}
+
+#Menu1{width: 100%;}
+
+ul{
+    background-color: #660000;
+    padding: 14px   ;
+    text-align: left;
+    
+}
+
+ul li{
+    
+    display: inline;
+    padding: 0 10px 0 10px;
+    
+}
+
+ul li a{
+    background-color: #eadcdc;
+    padding: 14px;
+    color: #660000;
+    text-decoration: none;  
+
+}
+
+ul li a:hover{
+    background-color: #660000;
+    color: black;
+    padding: 0 20 0 20;
+}

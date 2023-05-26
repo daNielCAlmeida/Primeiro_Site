@@ -1,0 +1,285 @@
+#Container{
+    width: 980px;
+    margin: auto;
+
+}
+
+
+.Loja{
+    font: arial;
+    color: #660000;
+    font-size: 18px;
+    border-bottom: 3px solid #660000 ;
+    margin-top: -90px;
+}
+
+.Serviços{
+    font: arial;
+    color: #1b8d99;
+    font-size: 18px;
+    border-bottom: 3px solid #1b8d99;
+}
+
+.Nome{
+    background-color: #dfeff1;
+    font: tahoma;
+    color: #1b8d99;
+    font-size: 17px;
+    text-align: center;
+    
+}
+
+.Nome1{
+    background-color: #eadcdc;
+    font: tahoma;
+    color: #660000;
+    font-size: 17px;
+    text-align: center;
+}
+
+.Txt{
+    font: tahoma;
+    color: #1b8d99;
+    font-size: 13px;
+}
+
+.Txt1{
+    font: tahoma;
+    color: #660000;
+    font-size: 13px;
+}
+
+#Banner{
+    background-image: url(../img/banner.fw.png); 
+    width: 964px;
+    height: 290px;
+    background-size: cover;
+    background-position-y: -6px;
+    margin-top: -130px;
+}
+
+
+
+.Nome2{
+    font: tahoma;
+    color: #660000;
+    font-size: 17px;
+}
+
+.Nome3{
+    font: tahoma;
+    color: #1b8d99;
+    font-size: 17px;
+}
+
+.DJI{
+    border: 3px solid #1b8d99;
+    width: 300px;
+    height: 323px;
+    margin-top: 11px;
+}
+h2{
+    width: 980px;
+    height: 96px;
+    color: white;
+    background-color: #1b8e99;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center
+}
+
+h3{
+   color: white;
+   background-color: #660000;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 14px; 
+   margin-top: 36px;
+   text-align: right;
+}
+
+iframe{
+    width: 100%;
+    height: 200px;
+}
+
+.Preço{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #1b8d99;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.Preço1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #660000;
+    text-align: center;
+}
+
+.Preço3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: white;
+    background-color: #1b8d99;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.Parcela{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: white;
+    background-color: #1b8d99;
+}
+
+.Parcela1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    color: white;
+    background-color: #660000;
+    }
+
+.DroneA{
+    background-image: url(../img/imgDroneA.png);
+    background-position: right;
+    width: 100%;
+    height: 72px;
+    background-repeat: no-repeat;
+    margin-top: -90px
+}
+
+.Phantom{
+    border: 3px solid #660000;
+    width: 300px;
+    height: 323px;
+    margin-left: 315px;
+    margin-top: -329px;
+}
+
+.Dron{
+    border: 3px solid #1b8d99;
+    width: 300px;
+    height: 323px;
+    margin-left: 630px;
+    margin-top: -329px;
+}
+
+.DroneB{
+    background-image: url(../img/imgDroneB.png);
+    background-position: right;
+    width: 100%;
+    height: 72px;
+    background-repeat: no-repeat;
+    margin-top: -90px;
+}
+
+.Cursos{
+    border: 3px solid #660000;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.Man{
+    border: 3px solid #1b8d99;
+    width: 300px;
+    height: 300px;
+    margin-left: 315px;
+    margin-top: -305px;
+}
+
+.Film{
+    border: 3px solid #660000;
+    width: 300px;
+    height: 300px;
+    margin-left: 630px;
+    margin-top: -305px;
+}
+
+.Prof{
+    background-image: url(../img/imgProfessor.png);
+    background-position: right;
+    width: 100%;
+    height: 203px;
+    background-repeat: no-repeat;
+    margin-top: -213px;
+}
+
+.Pimba{
+    background-image: url(../img/logo.png);
+    background-position: left;
+    width: 100%;
+    height: 32px;
+    background-repeat: no-repeat;
+    margin-top: -80px;
+}
+
+
+.DroneC1{
+    background-image: url(../img/imgDroneC.png);
+    width: 139px;
+    height: 46px;
+    background-repeat: no-repeat;
+    margin-left: 700px;
+    margin-bottom: -46px;
+}
+
+.DroneC2{
+    background-image: url(../img/imgDroneC.png);
+    width: 139px;
+    height: 46px;
+    background-repeat: no-repeat;
+    margin-left: 420px;
+    margin-bottom: -46px;
+}
+
+.DroneC3{
+    background-image: url(../img/imgDroneC.png);
+    width: 139px;
+    height: 46px;
+    background-repeat: no-repeat;
+    margin-bottom: -15px;
+}
+
+.End{
+    margin-top: 75px;
+}
+
+.Serv{
+    margin-top: 95px;
+}
+
+.Car1{
+    background-image: url(../img/carrinho.png);
+    background-color: white;
+    width: 56px;
+    height: 52px;
+    background-repeat: no-repeat;
+    margin-left: 234px;
+    margin-top: -61px
+}
+
+.Car2{
+    background-image: url(../img/carrinho.png);
+    background-color: white;
+    width: 56px;
+    height: 52px;
+    background-repeat: no-repeat;
+    margin-left: 234px;
+    margin-top: -61px
+}
+
+.Car3{
+    background-image: url(../img/carrinho.png);
+    background-color: white;
+    width: 56px;
+    height: 52px;
+    background-repeat: no-repeat;
+    margin-left: 234px;
+    margin-top: -61px
+}
+
